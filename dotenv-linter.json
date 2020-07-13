@@ -6,6 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v2.1.0/dotenv-linter-win-x64.zip",
+      "hash": "244e85656a0139c7bb9b42573fe92b99562a184e78ed99283ff3e20e18f7814b",
       "extract_dir": "dotenv-linter-2.1.0-win-x64"
     }
   },

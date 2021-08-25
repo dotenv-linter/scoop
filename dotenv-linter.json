@@ -5,8 +5,8 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v3.1.0/dotenv-linter-win-x64.zip",
-      "hash": "1de76628e3ed07309d0dc2595d2186a78b30c378291ae3b0f64decde75ec3d9e"
+      "url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v3.1.1/dotenv-linter-win-x64.zip",
+      "hash": "e6eb953d3a81299222297cfcd652e5437f7bce1a157cd05ca3badcc3f7041897"
     }
   },
   "bin": "dotenv-linter.exe",

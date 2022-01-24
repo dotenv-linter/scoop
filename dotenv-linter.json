@@ -1,12 +1,12 @@
 {
-  "version": "3.1.0",
+  "version": "3.2.0",
   "homepage": "https://github.com/dotenv-linter/dotenv-linter",
   "description": "Lightning-fast linter for .env files. Written in Rust",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v3.1.1/dotenv-linter-win-x64.zip",
-      "hash": "e6eb953d3a81299222297cfcd652e5437f7bce1a157cd05ca3badcc3f7041897"
+      "url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v3.2.0/dotenv-linter-win-x64.zip",
+      "hash": "c296c4849e448c62ff428a8f587fb480d9199d311536f095836e2d4036e429dc"
     }
   },
   "bin": "dotenv-linter.exe",
